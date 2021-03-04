@@ -1,2 +1,2 @@
 # hello-world
-Repositorio genérico
+Repositorio genéri
